@@ -18,7 +18,7 @@ let buttonMessage= {
 'body': me,
 'thumbnail': thumb2,
 'sourceUrl': 'https://www.youtube.com/watch?v=qBJ0F9Ecax0'}},
-'caption': 'http://github.com/Rlxfly/re-md',
+'caption': 'https://github.com/Rezaofc',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
